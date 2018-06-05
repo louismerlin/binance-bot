@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "description": "A very simple binance telegram bot",
+  "main": "index.js",
+  "repository": "git@github.com:louismerlin/binance-bot.git",
+  "author": "Louis Merlin <louis.merlin@epfl.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "binance": "^1.3.3",
+    "telegraf": "^3.21.2"
+  },
+  "name": "binance-bot"
+}
